@@ -2,6 +2,7 @@
 	"name": "github-auto-open-repo-search",
 	"version": "1.0.0",
 	"private": true,
+	"license": "MIT",
 	"description": "Userscript that opens the repository search on the GitHub dashboard automatically",
 	"scripts": {
 		"test": "vitest run",

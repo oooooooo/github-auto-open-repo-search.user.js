@@ -27,3 +27,7 @@ pnpm install
 pnpm test
 pnpm lint
 ```
+
+## License
+
+[MIT](LICENSE)

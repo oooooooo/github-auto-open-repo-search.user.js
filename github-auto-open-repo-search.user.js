@@ -4,6 +4,7 @@
 // @version      1.0.0
 // @description  Opens the "Top repositories" search on the GitHub dashboard automatically
 // @author       oooooooo
+// @license      MIT
 // @match        https://github.com/
 // @grant        none
 // @run-at       document-idle
