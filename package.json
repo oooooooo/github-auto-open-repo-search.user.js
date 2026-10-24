@@ -1,0 +1,15 @@
+{
+	"name": "github-auto-open-repo-search",
+	"version": "1.0.0",
+	"private": true,
+	"description": "Userscript that opens the repository search on the GitHub dashboard automatically",
+	"scripts": {
+		"test": "vitest run",
+		"lint": "biome check ."
+	},
+	"devDependencies": {
+		"@biomejs/biome": "^2.6.2",
+		"jsdom": "^30.1.3",
+		"vitest": "^5.0.5"
+	}
+}
